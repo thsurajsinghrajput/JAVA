@@ -1,4 +1,5 @@
-public class P3_Hello {
+//print  hello word
+public class P1 {
 
     public static void main(String[] args) {
         System.out.println("HELLO WORLD!");
