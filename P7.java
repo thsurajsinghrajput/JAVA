@@ -9,7 +9,7 @@ public class P7 {
         int number = sc.nextInt();
         int sum = 0;
 
-        while (number <0) {
+        while (number >0) {
             sum = sum+ (number %10);
             number = number/10;
             
